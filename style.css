@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    border: solid grey;
+    box-shadow: 4px 4px 5px rgb(2, 2, 2);
+    background-color: rgb(234, 205, 151);
+
+}
+.container2{
+    display: flex;
+    
+}
+.x{
+    width: 500px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 4px 4px 5px rgb(2, 2, 2);
+    background-color: rgb(216, 208, 208);
+
+    
+}
+.container3{
+    display: flex;
+}
+.container3>div{
+    border: 5px solid grey;
+    margin: 15px;
+    padding: 15px;
+    width: 500px;
+    box-shadow: 4px 4px 5px rgba(139, 95, 95, 0.697);
+    background-color: rgb(161, 255, 238);
+
+}
+p{
+    color: grey;
+}
+li{
+    color: grey;
+}
+h1{
+    color: grey;
+}
